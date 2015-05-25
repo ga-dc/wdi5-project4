@@ -12,8 +12,10 @@ Ultimately, this project is for you and you alone. That being said, you should u
 - Should you go the opposite route and want to go crazy with your domain model and incorporate several complex multi-model associations, that's awesome too!
 - You can also take the road between and have a bit of everything. (Also awesome!!)
 
+Don't forget, we're looking for evidence of comprehension of the material we've taught. So no matter which route you take, do your best work! Be sure to check out the [rubric](/rubric.md).
+
 ## Checkpoints
 > These will be updated throughout the next two weeks, so be sure to check for updated checkpoints
 
 ### Tuesday HW (26 May)
-SUBMIT your project idea as an issue to THIS repo.
+SUBMIT your project idea as an issue to THIS repo before 9:00 AM Wednesday.
