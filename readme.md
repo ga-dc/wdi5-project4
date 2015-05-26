@@ -14,6 +14,10 @@ Ultimately, this project is for you and you alone. That being said, you should u
 
 Don't forget, we're looking for evidence of comprehension of the material we've taught. So no matter which route you take, do your best work! Be sure to check out the [rubric](/rubric.md).
 
+## Examples
+
+Here is a collection of past WDI projects - http://gallery.ga.co/WDI
+
 ## Checkpoints
 > These will be updated throughout the next two weeks, so be sure to check for updated checkpoints
 
