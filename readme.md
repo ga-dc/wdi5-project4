@@ -18,4 +18,4 @@ Don't forget, we're looking for evidence of comprehension of the material we've 
 > These will be updated throughout the next two weeks, so be sure to check for updated checkpoints
 
 ### Tuesday HW (26 May)
-SUBMIT your project idea as an issue to THIS repo before 9:00 AM Wednesday.
+SUBMIT a three-sentence, 30-second pitch of your project idea as an issue to THIS repo before 9:00 AM Wednesday.
