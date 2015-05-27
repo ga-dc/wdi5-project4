@@ -45,4 +45,4 @@ Create an ERD for your project. Incorporate all the models you expect to use, an
 
 This can be made on LucidChart.com, drawn by hand, sketched on a whiteboard... However, a photo or screenshot of the completed ERD must be included in your project repo.
 
-As a Git issue, submit a link to the image of the ERD within your repo's file system. (That is, the domain of the link should be `Github.com`, not `Imgur.com` or something.)
+As an issue to **THIS** repo, submit a link to the image of the ERD within your repo's file system. (That is, the domain of the link should be `Github.com`, not `Imgur.com` or something.)
