@@ -17,3 +17,11 @@ Ultimately, this project is for you and you alone. That being said, you should u
 
 ### Tuesday HW (26 May)
 SUBMIT your project idea as an issue to THIS repo.
+
+### Wednesday HW (27 May)
+- create a repo for your project
+- create a folder in your project repo called `planning`. Place the following in it:
+  - A markdown file that contains 5 user stories
+  - pictures of sketches/wireframes
+    - have at least 3 views wireframed
+    - if your app is a single page application, create at least 3 wireframes of your single page application at different states
