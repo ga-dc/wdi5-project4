@@ -33,9 +33,16 @@ https://github.com/ga-dc/milk-and-cookies/blob/master/graduation.md
 SUBMIT a three-sentence, 30-second pitch of your project idea as an issue to THIS repo before 9:00 AM Wednesday.
 
 ### Wednesday HW (27 May)
-- create a repo for your project
-- create a folder in your project repo called `planning`. Place the following in it:
+- Create a repo for your project
+- Create a folder in your project repo called `planning`. Place the following in it:
   - A markdown file that contains 5 user stories
-  - pictures of sketches/wireframes
-    - have at least 3 views wireframed
-    - if your app is a single page application, create at least 3 wireframes of your single page application at different states
+  - Pictures of sketches/wireframes
+    - Have at least 3 views wireframed
+    - If your app is a single page application, create at least 3 wireframes of your single page application at different states
+
+### Thursday HW (28 May)
+Create an ERD for your project. Incorporate all the models you expect to use, and also all the fields (columns) you expect each model to have.
+
+This can be made on LucidChart.com, drawn by hand, sketched on a whiteboard... However, a photo or screenshot of the completed ERD must be included in your project repo.
+
+As a Git issue, submit a link to the image of the ERD within your repo's file system. (That is, the domain of the link should be `Github.com`, not `Imgur.com` or something.)
