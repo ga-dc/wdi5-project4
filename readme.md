@@ -46,3 +46,24 @@ Create an ERD for your project. Incorporate all the models you expect to use, an
 This can be made on LucidChart.com, drawn by hand, sketched on a whiteboard... However, a photo or screenshot of the completed ERD must be included in your project repo.
 
 As an issue to **THIS** repo, submit a link to the image of the ERD within your repo's file system. (That is, the domain of the link should be `Github.com`, not `Imgur.com` or something.)
+
+## Presentations and Submissions
+
+In place of doing science-fair-style or one-by-one presentations, you will prepare a short (3 -5 minute) presentation
+which you will record and upload to YouTube.
+
+Your video **must** include:
+
+- a description and demo of your app
+- a code sample explaining one thing you’re proud of
+- one thing you’d do differently next time
+- the next feature you’d implement if you had more time
+
+Submit your presentation by opening an issue on **this** repo with a link to your video. We will watch the
+presentations on Friday afternoon - with popcorn!
+
+**Submitting your presentation is required for graduation**
+
+[What does it mean to graduate?](https://github.com/ga-dc/milk-and-cookies/blob/master/graduation.md)
+
+
