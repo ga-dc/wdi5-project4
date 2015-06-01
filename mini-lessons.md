@@ -1,0 +1,20 @@
+# Week 12 Mini-Lessons
+
+Will be in Classroom 2!
+
+- Monday
+  - 11:00 - 12:00
+    - Rails best practices (Adam)
+- Tuesday
+  - 11:00 - 12:00
+    - PHP Contact Form (Robin) 
+  - 2:00 - 3:00
+    - Ruby OOP design principles (Jeff)
+- Wednesday
+  - 11:00 - 12:00
+    - Meta programming (Adam)
+- Thursday
+  - 11:00 - 12:00
+    - JavaScript Design Patterns (Jeff)
+  - 2:00 - 3:00
+    - How to Screencast (Jesse) 
