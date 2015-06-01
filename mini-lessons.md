@@ -12,9 +12,9 @@ Will be in Classroom 2!
     - Ruby OOP design principles (Jeff)
 - Wednesday
   - 11:00 - 12:00
-    - Meta programming (Adam)
+    - JavaScript Design Patterns (Jeff)
 - Thursday
   - 11:00 - 12:00
-    - JavaScript Design Patterns (Jeff)
+    - Meta programming (Adam)
   - 2:00 - 3:00
     - How to Screencast (Jesse) 
