@@ -59,9 +59,6 @@ Your video must include:
 - One thing you’d do differently next time
 - The next feature you’d implement if you had more time
 
-Submit your presentation by opening an issue on **this** repo with a link to your video. We will watch the
-presentations on Friday afternoon - with popcorn!
-
 Submitting your presentation is required for graduation. [What does it mean to graduate?](https://github.com/ga-dc/milk-and-cookies/blob/master/graduation.md)
 
 ### Submission deadline: Thursday, June 4th, 11:00pm
@@ -80,9 +77,10 @@ Alternatively, you can also create a video using YouTube's own built-in recorder
 
 ### How to submit
 
-If you recorded -mail your completed video as an attachment to:
+If you recorded your video on QuickTime, e -mail your completed video as an attachment to:
 
 mn9d71w34waa@m.youtube.com
 
 The subject of your e-mail will automatically become the title of your video. The body of your e-mail will automatically become the description of your video. (This is where you should include your e-mail address or contact information, links to your Heroku app and Github repo, and any other descriptive info.)
 
+If you recorded your video on YouTube itself, include a link to your video as an issue on **this** repository.
