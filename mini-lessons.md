@@ -15,6 +15,6 @@ Will be in Classroom 2!
     - JavaScript Design Patterns (Jeff)
 - Thursday
   - 11:00 - 12:00
-    - Meta programming (Adam)
-  - 2:00 - 3:00
     - How to Screencast (Jesse) 
+  - 2:30 - 3:30
+    - Meta programming (Adam)
