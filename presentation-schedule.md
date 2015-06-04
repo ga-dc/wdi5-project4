@@ -8,7 +8,7 @@ Submit your final project by creating a new issue on this repo - https://github.
 
 - 10:00 Arrive hungry (breakfast provided starting at 9am)
 - 10:30 Start Video Presentations
-- 12:30 Lunch
+- 12:30 Lunch (provided by GRK!!)
 - 1:30 Resume Video Presentations
 - 2:30 Finish Video Presentations
 - 2:45 Life after WDI
