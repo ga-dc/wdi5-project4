@@ -1,0 +1,84 @@
+- Diana J
+  - BestFesties
+  - http://youtu.be/OR7pv4Rgw-A
+- Nabil H
+  - A Nice Nest
+  - https://youtu.be/zsLdL-PCvhk
+- Keith K
+  - Keith's Kookbook
+  - https://www.youtube.com/watch?v=D_IZJdUIPEA
+- John M
+  - Life Designer
+  - https://youtu.be/pvZ46GP54zo
+- Zakk F
+  - Stor.io, Agile Project Management
+  - https://www.youtube.com/watch?v=pp-b4tXh4Vk
+- Lindsey D
+  - Escape the Call
+  - https://www.youtube.com/watch?v=s60V5gEp-Mg
+- Janice M
+  - Breakup Buddy
+  - https://www.youtube.com/watch?v=HSR0FOLLASI
+- Brad F
+  - Barley
+  - https://www.youtube.com/watch?v=7WuvZuLlug0
+- Tamara P
+  - Domestic Abuse Awareness
+  - https://vimeo.com/129851158
+- Brittany H
+  - Quiz Game
+  - https://www.youtube.com/watch?v=h-3udy8V_N8
+- Isa C
+  - CoverCreate
+  - https://www.youtube.com/watch?v=DNg0fr6erRc
+- Kevin B
+  - MeetTheTeam
+  - http://youtu.be/dgNMqzf-YS8
+- Sarah G
+  - goTogether
+  - http://youtu.be/p4pOQIxxxqs
+- Gwen M
+  - PlayDate
+  - http://youtu.be/TtdoYG-DtWA
+- Haleigh H
+  - TickeTush
+  - https://www.youtube.com/watch?v=fRzWW-8zAbU
+- Ryan K
+  - Guns n' Rocks
+  - https://www.youtube.com/watch?v=KpUrORiRLGQ
+- Jocelyn J
+  - NoizeBox
+  - https://youtu.be/i_5N5IYoovU
+- Julia R
+  - LectureSpecter
+  - https://youtu.be/SjJABON8mTM
+- Ali T
+  - I-Like
+  - https://www.youtube.com/watch?v=PMxVOH5b2-c
+- Preston S
+  - Get Out and Play
+  - https://www.youtube.com/watch?v=l8iL9hNaMq4
+- Damon E
+  - TravelPlanner
+  - https://www.youtube.com/watch?v=u2sN4Gmgae8
+- Don M and Nic S
+  - Writers Hub
+  - https://www.youtube.com/watch?v=1SOPgFh8IGM
+- Parmeet S
+  - Money Never Sleeps
+  - https://www.youtube.com/watch?v=1-akNzCeTeg
+- Noah L
+  - Scrawl
+  - https://www.youtube.com/watch?v=CUx8YLweWDU
+- Allyson L
+  - TruFlo
+  - https://www.youtube.com/watch?v=6N5Z-ikE0Xs
+- Enoch S
+  - Portfolio Guard
+  - https://youtu.be/FGnZ27kMuEY
+- Nick B
+  - Img2Map
+  - https://www.youtube.com/watch?v=3TgJtAW8WHc
+- Adrian M
+  - Bandwagon
+  - https://www.youtube.com/watch?v=y-EwQYhoQJU
